@@ -1,8 +1,41 @@
-unetbootin (608-1blankon1) tambora; urgency=medium
+unetbootin (625-1blankon1) tambora; urgency=medium
 
-  * New upstream release
+  * Upstream release from git
 
- -- Azis Ws <azis.astrojim@surabaya.di.blankon.in>  Fri, 10 Oct 2014 20:48:47 +0700
+ -- Mijortsa <mijortsa@icik2.blankon.in>  Thu, 04 Aug 2016 19:18:00 +0700
+
+unetbootin (625-1) unstable; urgency=medium
+
+  * Import Upstream version 625
+
+ -- Geza Kovacs <geza0kovacs@gmail.com>  Mon, 16 May 2016 02:30:23 -0700
+
+unetbootin (624-1) unstable; urgency=low
+
+  * Import Upstream version 624
+
+ -- Geza Kovacs <geza0kovacs@gmail.com>  Mon, 16 May 2016 02:08:29 -0700
+
+unetbootin (623-1) unstable; urgency=low
+
+  * Imported Upstream version 623
+
+ -- Geza Kovacs <geza0kovacs@gmail.com>  Mon, 16 May 2016 01:50:21 -0700
+
+unetbootin (622-1) unstable; urgency=low
+
+  * Imported Upstream version 622
+  * added policykit file
+
+ -- Geza Kovacs <geza0kovacs@gmail.com>  Mon, 16 May 2016 01:02:36 -0700
+
+unetbootin (608-1) unstable; urgency=low
+
+  * New upstream release.
+  * Tune syslinux_6_update.patch for proper paths (closes: #752178, #762841).
+  * Update Standards-Version to 3.9.6 .
+
+ -- Laszlo Boszormenyi (GCS) <gcs@debian.org>  Tue, 14 Oct 2014 18:37:25 +0000
 
 unetbootin (603-1) unstable; urgency=low
 
